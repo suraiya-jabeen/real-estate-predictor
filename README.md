@@ -15,11 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will automatically reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -27,16 +22,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified, and the filenames include hashes.\
 Your app is ready to be deployed!
-
-For more details, refer to the [deployment documentation](https://facebook.github.io/create-react-app/docs/deployment).
-
-### `npm run eject`
-
-**Note:** This is a one-way operation. Once you `eject`, you can't go back!
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project and copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them. All other commands except `eject` will still work, but they will point to the copied scripts so you can tweak them.
-
-You don't have to eject unless you need full control over the configuration files.
 
 ## Setup and Installation
 
@@ -80,9 +65,6 @@ For learning about Brain.js and how neural networks work in JavaScript, check ou
 Troubleshooting
 If you run into any issues during development or deployment, you can check the troubleshooting section in the official React documentation: Troubleshooting React.
 
-License
-This project is open source and available under the MIT License.
-
 markdown
 Copy
 
@@ -92,7 +74,7 @@ Copy
 3. **Neural Network**: Clarified the use of **Brain.js** for neural network predictions.
 4. **Dependencies**: The `npm install` and `npm start` steps are explained for getting the app running locally.
 5. **Learning Resources**: Links to relevant documentation for **React** and **Brain.js** are included.
-6. **License**: An MIT license section has been added as a placeholder; you can adjust this according to your actual license.
+6. **License**: A Student license.
 
 Let me know if you need more updates or any other customizations!
 =======
