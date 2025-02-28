@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real Estate Price Prediction App
 
 This project is a real estate price prediction application built with **React** and **Brain.js** for neural network predictions. The app allows users to input details about a property (such as area, number of bedrooms, bathrooms, location, and age) and get a predicted price for that property based on a trained neural network.
@@ -94,3 +95,7 @@ Copy
 6. **License**: An MIT license section has been added as a placeholder; you can adjust this according to your actual license.
 
 Let me know if you need more updates or any other customizations!
+=======
+# real-estate-predictor
+A React app for predicting real estate prices based on property details.
+>>>>>>> 341245565a708af7208ec6801c5510f1dcf165cf
