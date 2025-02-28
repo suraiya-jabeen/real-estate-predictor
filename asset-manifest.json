@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real-estate-predictor/static/css/main.47df88e5.css",
+    "main.js": "/real-estate-predictor/static/js/main.3f5ec5e9.js",
+    "index.html": "/real-estate-predictor/index.html",
+    "main.47df88e5.css.map": "/real-estate-predictor/static/css/main.47df88e5.css.map",
+    "main.3f5ec5e9.js.map": "/real-estate-predictor/static/js/main.3f5ec5e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47df88e5.css",
+    "static/js/main.3f5ec5e9.js"
+  ]
+}
