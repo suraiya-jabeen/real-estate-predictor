@@ -1,0 +1,53 @@
+/* Input field styling */
+/*.form-control {
+  border-radius: 5px;
+  padding: 12px;
+  font-size: 1rem;
+  margin-bottom: 20px;
+}*/
+
+/* Button styling */
+button {
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1.1rem;
+  background-color: #0e69aa;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #F8F2F5;
+}
+
+/* Button styling for pink color */
+.btn-pink {
+  background-color: #918cd7 !important; /* Use !important to ensure it overrides default styles */
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+.btn-pink:hover {
+  background-color: #b8889b !important; /* Ensure the hover effect is also applied */
+}
+
+/* Prediction Box */
+.p-3 {
+  background-color: #e8f9e9;
+  border-radius: 8px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #2ecc71;
+  margin-top: 20px;
+}
+
+/* Headings and Labels */
+h1, h4 {
+  color: #0c7ff3;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
