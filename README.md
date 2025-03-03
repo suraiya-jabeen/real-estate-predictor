@@ -69,8 +69,9 @@ For learning about Brain.js and how neural networks work in JavaScript, check ou
 Troubleshooting
 If you run into any issues during development or deployment, you can check the troubleshooting section in the official React documentation: Troubleshooting React.
 
-markdown
-Copy
+### Deployment Link:
+
+            https://suraiya-jabeen.github.io/real-estate-predictor/
 
 ### Key Changes:
 1. **Project Context**: Updated the README to reflect the purpose of the app (real estate price prediction).
