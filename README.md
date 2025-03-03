@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-estate-predictor.git
+   git clone https://github.com/suraiya-jabeen/real-estate-predictor.git
 Navigate into the project directory:
 
 bash
